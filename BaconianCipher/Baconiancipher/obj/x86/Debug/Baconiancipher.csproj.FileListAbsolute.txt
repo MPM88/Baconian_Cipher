@@ -1,0 +1,8 @@
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\bin\Debug\Baconiancipher.exe
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\bin\Debug\Baconiancipher.pdb
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\obj\x86\Debug\Baconiancipher.FrmMain.resources
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\obj\x86\Debug\Baconiancipher.Properties.Resources.resources
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\obj\x86\Debug\Baconiancipher.csproj.GenerateResource.Cache
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\obj\x86\Debug\Baconiancipher.exe
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\obj\x86\Debug\Baconiancipher.pdb
+C:\Users\Ra\Dropbox\BaconianCipher\Baconiancipher\obj\x86\Debug\Baconiancipher.csprojResolveAssemblyReference.cache
